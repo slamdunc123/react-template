@@ -1,0 +1,27 @@
+[
+    {
+    "title":"Home",
+    "heroText":"Home - Hero text",
+    "pageText":"Home - Lorem ipsum dolor sit amet consectetur, adipisicing elit. A soluta quia ex aperiam corporis eum error eius perferendis modi repellendus odio accusantium nisi laudantium praesentium, tempore esse consequuntur dolorem eos?"
+    },
+    {
+    "title":"About",
+    "heroText":"About - Hero text",
+    "pageText":"About - Lorem ipsum dolor sit amet consectetur, adipisicing elit. A soluta quia ex aperiam corporis eum error eius perferendis modi repellendus odio accusantium nisi laudantium praesentium, tempore esse consequuntur dolorem eos?"
+    },
+    {
+    "title":"Contact",
+    "heroText":"Contact - Hero text",
+    "pageText":"Contact - Lorem ipsum dolor sit amet consectetur, adipisicing elit. A soluta quia ex aperiam corporis eum error eius perferendis modi repellendus odio accusantium nisi laudantium praesentium, tempore esse consequuntur dolorem eos?"
+    },
+    {
+    "title":"Data",
+    "heroText":"Data - Hero text",
+    "pageText":"Data - Lorem ipsum dolor sit amet consectetur, adipisicing elit. A soluta quia ex aperiam corporis eum error eius perferendis modi repellendus odio accusantium nisi laudantium praesentium, tempore esse consequuntur dolorem eos?"
+    },
+    {
+    "title":"Partials",
+    "heroText":"Partials - Hero text",
+    "pageText":"Partials - Lorem ipsum dolor sit amet consectetur, adipisicing elit. A soluta quia ex aperiam corporis eum error eius perferendis modi repellendus odio accusantium nisi laudantium praesentium, tempore esse consequuntur dolorem eos?"
+    }
+]
